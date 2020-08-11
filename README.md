@@ -1,4 +1,4 @@
-<a href="https://medium.com/@s15113114/laravel-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-958c50036d5d"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.playpcesor.com%2F2019%2F08%2Fstudy-notes-system.html&psig=AOvVaw0Afq7gxkOZoIH8rx9AjA-m&ust=1597244455844000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjHgra1k-sCFQAAAAAdAAAAABAD" alt="Build Status"></a>
+<a href="https://medium.com/@s15113114/laravel-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-958c50036d5d"><img src="https://1.bp.blogspot.com/-sP6euyqs1pc/XUMAy04i4gI/AAAAAAAGpAM/MThDM11XjO8B3WoScwLaGsvnz_uVhaN-QCLcBGAs/s640/StockSnap_TBJ9OPDGMK%2B%255B2%255D.jpg" alt="Build Status"></a>
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
