@@ -1,4 +1,6 @@
+<p align="center">
 <a href="https://medium.com/@s15113114/laravel-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-958c50036d5d"><img src="https://1.bp.blogspot.com/-sP6euyqs1pc/XUMAy04i4gI/AAAAAAAGpAM/MThDM11XjO8B3WoScwLaGsvnz_uVhaN-QCLcBGAs/s640/StockSnap_TBJ9OPDGMK%2B%255B2%255D.jpg" alt="Build Status"></a>
+</p>
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
