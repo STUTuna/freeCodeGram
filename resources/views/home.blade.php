@@ -7,7 +7,7 @@
             <img src="https://instagram.fkhh1-1.fna.fbcdn.net/v/t51.2885-19/s150x150/97566921_2973768799380412_5562195854791540736_n.jpg?_nc_ht=instagram.fkhh1-1.fna.fbcdn.net&_nc_ohc=LFHchPCFeR0AX_A7cye&oh=6007370dbf3454e6cf6307be2391c0a0&oe=5F56A067" class="rounded-circle">
         </div>
         <div class="col-9 pt-5 pl-5">
-            <div><h1>Tuna's Instagram</h1></div>
+            <div><h1>{{ $user->username }}</h1></div>
             <div class="d-flex">
                 <div class="pr-5"><strong>153</strong>posts</div>
                 <div class="pr-5"><strong>23k</strong>follows</div>
